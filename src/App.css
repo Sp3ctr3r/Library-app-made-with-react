@@ -1,0 +1,30 @@
+.row {
+
+  background-color: #d7743ead;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 400px;
+  padding-top: 2em;
+}
+
+.table {
+  color: #D3D3D3;
+  font-style: italic;
+  font-size: bold;
+  font-size: 22px;
+  width: 100%;
+}
+
+.stickyHeader {
+  top: 0;
+  position: sticky;
+  background-color: #008080;
+}
+
+.tbody {
+  max-height: 100%;
+}
+
+.addBtn {
+  width: 100%;
+}
